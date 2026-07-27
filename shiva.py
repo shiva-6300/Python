@@ -1,4 +1,5 @@
 print("Hello Shiva");
+print("This is a simple multiplication table for 5:")
 
 
 for i in range(1, 11):
